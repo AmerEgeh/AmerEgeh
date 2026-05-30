@@ -89,3 +89,9 @@
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amer-adam-95139133b)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmerEgeh/AmerEgeh/output/github-contribution-grid-snake-dark.svg" alt="Amer's Contribution Snake Game" />
+</p>
