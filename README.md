@@ -8,32 +8,29 @@
 ## 🧑‍💻 About Me
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
-      <p><i>"The goal is to design clean, scalable architectures that turn raw enterprise data into real business value."</i></p>
-      <p>I am an <b>Azure Cloud Data Engineer</b> based in Riyadh, Saudi Arabia. I specialize in building modern, high-performance lakehouse architectures, optimizing distributed data compute, and designing enterprise-grade ingestion pipelines.</p>
-      
-      <ul>
-        <li>🏗️ <b>Building:</b> Scalable Medallion architectures (Bronze/Silver/Gold) and automated ELT flows.</li>
-        <li>🎯 <b>Focus Areas:</b> Cloud performance tuning, PySpark optimizations, and data lakehouse governance.</li>
-        <li>🚀 <b>Ask Me About:</b> Databricks Auto Loader, Azure Data Factory orchestration, and Delta Lake tracking.</li>
-        <li>📚 <b>Currently Studying:</b> Microsoft Fabric SaaS architecture and Direct Lake modeling techniques.</li>
-        <li>📍 <b>Based in:</b> Riyadh, Saudi Arabia</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" width="280" alt="Coding Animation" style="border-radius: 8px;"/>
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+<p><i>"The goal is to design clean, scalable architectures that turn raw enterprise data into real business value."</i></p>
+<p>I am an <b>Azure Cloud Data Engineer</b> based in Riyadh, Saudi Arabia. I specialize in building modern, high-performance lakehouse architectures, optimizing distributed data compute, and designing enterprise-grade ingestion pipelines.</p>
+<ul>
+<li>🏗️ <b>Building:</b> Scalable Medallion architectures (Bronze/Silver/Gold) and automated ELT flows.</li>
+<li>🎯 <b>Focus Areas:</b> Cloud performance tuning, PySpark optimizations, and data lakehouse governance.</li>
+<li>🚀 <b>Ask Me About:</b> Databricks Auto Loader, Azure Data Factory orchestration, and Delta Lake tracking.</li>
+<li>📚 <b>Currently Studying:</b> Microsoft Fabric SaaS architecture and Direct Lake modeling techniques.</li>
+<li>📍 <b>Based in:</b> Riyadh, Saudi Arabia</li>
+</ul>
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" width="280" alt="Coding Animation" style="border-radius: 8px;"/>
+</td>
+</tr>
 </table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ameregeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer's GitHub Stats" />
-</p>
+![Amer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameregeh&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
