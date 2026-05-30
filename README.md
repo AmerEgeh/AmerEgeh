@@ -35,8 +35,9 @@
 
 ## 📊 GitHub Analytics
 
-![Amer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameregeh&show_icons=true&theme=tokyonight&hide_border=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmerEgeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer's GitHub Stats" />
+</p>
 ---
 
 ## 🛠️ Technical Proficiencies
