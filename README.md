@@ -2,7 +2,7 @@
 ### 📍 Based in Riyadh, Saudi Arabia
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amerfgeh&theme=tokyonight&hide_border=true" alt="Amer's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ameregeh&theme=tokyonight&hide_border=true" alt="Amer's GitHub Streak" />
 </p>
 
 ---
