@@ -12,7 +12,7 @@
 <td width="65%" valign="top">
 
 <blockquote>
-  <font color="#58a6ff"><i>The goal is to turn data into information, and information into insight.</i></font>
+  <font color="#58a6ff"><i>"The goal is to design clean, scalable architectures that turn raw enterprise data into real business value."</i></font>
 </blockquote>
 
 <p>I am an <b>Azure Cloud Data Engineer</b> based in Riyadh, Saudi Arabia. I specialize in building modern, high-performance lakehouse architectures, optimizing distributed data compute, and designing enterprise-grade ingestion pipelines.</p>
@@ -26,7 +26,7 @@
 </ul>
 </td>
 <td width="35%" valign="middle" align="center">
-  <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" alt="Developer Octocat" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280" alt="Developer Illustration" />
 </td>
 </tr>
 </table>
