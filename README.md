@@ -12,7 +12,7 @@
 <td width="65%" valign="top">
 
 <blockquote>
-  <font color="#58a6ff"><i>"The goal is to design clean, scalable architectures that turn raw enterprise data into real business value."</i></font>
+  <font color="#58a6ff"><i>"The goal is to turn data into information, and information into insight."</i></font>
 </blockquote>
 
 <p>I am an <b>Azure Cloud Data Engineer</b> based in Riyadh, Saudi Arabia. I specialize in building modern, high-performance lakehouse architectures, optimizing distributed data compute, and designing enterprise-grade ingestion pipelines.</p>
