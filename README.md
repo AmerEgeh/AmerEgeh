@@ -37,9 +37,10 @@
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmerEgeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer's GitHub Stats" width="400" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameregeh&theme=tokyonight&hide_border=true" alt="Amer's GitHub Streak" />
+</p>
 
-<br/>
 <br/>
 
 ---
