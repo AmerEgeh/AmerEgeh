@@ -5,23 +5,28 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me 
 
 <table>
 <tr>
-<td width="60%" valign="top">
-<p><i>"The goal is to design clean, scalable architectures that turn raw enterprise data into real business value."</i></p>
+<td width="65%" valign="top">
+
+<blockquote>
+  <font color="#58a6ff"><i>"The goal is to design clean, scalable architectures that turn raw enterprise data into real business value."</i></font>
+</blockquote>
+
 <p>I am an <b>Azure Cloud Data Engineer</b> based in Riyadh, Saudi Arabia. I specialize in building modern, high-performance lakehouse architectures, optimizing distributed data compute, and designing enterprise-grade ingestion pipelines.</p>
+
 <ul>
-<li>🏗️ <b>Building:</b> Scalable Medallion architectures (Bronze/Silver/Gold) and automated ELT flows.</li>
-<li>🎯 <b>Focus Areas:</b> Cloud performance tuning, PySpark optimizations, and data lakehouse governance.</li>
-<li>🚀 <b>Ask Me About:</b> Databricks Auto Loader, Azure Data Factory orchestration, and Delta Lake tracking.</li>
-<li>📚 <b>Currently Studying:</b> Microsoft Fabric SaaS architecture and Direct Lake modeling techniques.</li>
-<li>📍 <b>Based in:</b> Riyadh, Saudi Arabia</li>
+  <li>🏗️ <b>Building:</b> Scalable Medallion architectures (Bronze/Silver/Gold) and automated ELT flows.</li>
+  <li>🎯 <b>Focus Areas:</b> Cloud performance tuning, PySpark optimizations, and data lakehouse governance.</li>
+  <li>🚀 <b>Ask Me About:</b> Databricks Auto Loader, Azure Data Factory orchestration, and Delta Lake tracking.</li>
+  <li>📚 <b>Currently Studying:</b> Microsoft Fabric SaaS architecture and Direct Lake modeling techniques.</li>
+  <li>📍 <b>Based in:</b> Riyadh, Saudi Arabia</li>
 </ul>
 </td>
-<td width="40%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" width="280" alt="Coding Animation" style="border-radius: 8px;"/>
+<td width="35%" valign="middle" align="center">
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="200" alt="Developer Octocat" />
 </td>
 </tr>
 </table>
