@@ -51,4 +51,4 @@
 ---
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/amer-adam-95139133b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/amer-adam-95139133b](https://www.linkedin.com/in/amer-adam-95139133b/?skipRedirect=true))
