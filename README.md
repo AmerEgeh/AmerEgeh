@@ -35,13 +35,16 @@
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmerEgeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer's GitHub Stats" />
-</p>
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmerEgeh&show_icons=true&theme=tokyonight&hide_border=true" alt="Amer's GitHub Stats" width="400" />
+
+<br/>
+<br/>
+
 ---
 
 ## 🛠️ Technical Proficiencies
-
 ### ☁️ Cloud Platforms & Ingestion
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-F25F22?style=flat-square&logo=microsoft&logoColor=white)
