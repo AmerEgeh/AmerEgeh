@@ -65,7 +65,7 @@
 ## 🚀 Featured Projects
 
 ### 🛒 End-to-End Retail Data Lakehouse
-[📂 **View Repository**](https://github.com/AmerEgeh/Azure-Data-Engineer-Project) · *Interactive Cloud Environment*
+[📂 **View Repository**](https://github.com/AmerEgeh/Azure-Data-Engineer-Project) · 
 
 * **Architected a 3-layer Medallion pipeline (Bronze, Silver, Gold)** utilizing **Azure Data Factory (ADF)** for orchestration and **ADLS Gen2** for cloud storage, transforming nested JSON records with 100% data integrity.
 * **Automated streaming data ingestion** using **Databricks Auto Loader**, achieving a 100% elimination of manual scheduling while capturing full metadata lineage.
@@ -75,7 +75,7 @@
 ---
 
 ### 🔄 Incremental Load Data Pipeline
-[📂 **View Repository**](https://github.com/AmerEgeh/Data-Pipeline-Project--Incremental-Load) · *Production-Ready ETL/ELT*
+[📂 **View Repository**](https://github.com/AmerEgeh/Data-Pipeline-Project---Incremental-Load) · 
 
 * Built a high-performance **ETL/ELT architecture** optimized for daily scheduled batch loads.
 * Implemented clean change-data tracking mechanisms to ensure processing resources are only used on modified source records.
