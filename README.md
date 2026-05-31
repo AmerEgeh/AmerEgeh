@@ -80,7 +80,7 @@
 ---
 
 ### 🔄 Incremental Load Data Pipeline
-[📂 **View Repository**](https://github.com/AmerEgeh/Data-Pipeline-Project---Incremental-Load) · 
+[📂 **View Repository**](https://github.com/AmerEgeh/Data-Pipeline-Project---Incremental-Load) ·
 
 * Built a high-performance **ETL/ELT architecture** optimized for daily scheduled batch loads.
 * Implemented clean change-data tracking mechanisms to ensure processing resources are only used on modified source records.
