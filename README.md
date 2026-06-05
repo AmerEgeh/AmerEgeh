@@ -59,7 +59,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-004D40?style=flat-square&logo=databricks&logoColor=white)
 
-### 🗄️ Languages & Databases
+### 🗄️ Languages & Databases 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
