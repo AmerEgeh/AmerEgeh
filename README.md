@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0089D6&width=500&lines=Azure+Cloud+Data+Engineer;Microsoft+Fabric+Focus;Databricks+%26+PySpark+Developer" alt="Typing SVG" />
 </p>
-
+ 
 ---
 
 ## 🧑‍💻 About Me 
